@@ -1,0 +1,324 @@
+{
+  "returns": [
+    {
+      "Order ID": "CA-2016-123337",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2014-133851",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-163874",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "US-2017-141943",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-143574",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-146731",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2016-109869",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-159464",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-137498",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-130778",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-149489",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2016-157245",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-143021",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "US-2017-112613",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2016-123414",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2015-134922",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-140130",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-127131",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-130218",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-148404",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2016-129126",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-163951",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "US-2014-134054",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2015-147788",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-104311",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2016-131835",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "US-2015-165449",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-100300",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2015-102281",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2015-129770",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2014-148761",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-112130",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2014-169775",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2017-134418",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "US-2014-167738",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2015-148432",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-118542",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "US-2016-163881",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-153808",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "US-2014-123183",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2014-162992",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "US-2014-127635",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "US-2017-161935",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-127446",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2017-103443",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2015-111612",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "US-2017-142188",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-156608",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-124933",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2015-133396",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2017-104220",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-104136",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-147830",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2015-131338",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "US-2016-142685",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2014-114181",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2016-125206",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2015-124450",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-101931",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "US-2016-117793",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2015-107902",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-124394",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-135993",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2015-119697",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2017-129021",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-117639",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2014-162089",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2017-102925",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2015-108665",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "US-2017-166233",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2014-166891",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2016-148684",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2017-138618",
+      "Reason": "Not as described"
+    },
+    {
+      "Order ID": "CA-2015-110891",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2017-137624",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "US-2014-158638",
+      "Reason": "Wrong item"
+    },
+    {
+      "Order ID": "CA-2015-151869",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2016-163167",
+      "Reason": "Changed mind"
+    },
+    {
+      "Order ID": "CA-2017-136063",
+      "Reason": "Damaged"
+    },
+    {
+      "Order ID": "CA-2014-167927",
+      "Reason": "Wrong item"
+    }
+  ]
+}
