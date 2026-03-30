@@ -1,11 +1,11 @@
-# 🛒 E-Commerce Superstore Analytics
+#  E-Commerce Superstore Analytics
 ### DSE3231 — Data Science Lab | Manipal University Jaipur | Jan-May 2026
 
 A complete **end-to-end data science project** covering all 10 lab sessions from the course handout.
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 | Detail | Info |
 |---|---|
@@ -16,7 +16,7 @@ A complete **end-to-end data science project** covering all 10 lab sessions from
 
 ---
 
-## 🗂️ File Structure
+##  File Structure
 
 ```
 superstore_project/
@@ -38,7 +38,7 @@ superstore_project/
 
 ---
 
-## 🔗 Handout → Code Mapping
+##  Handout → Code Mapping
 
 | Lab | Topic | Script | Key Output |
 |---|---|---|---|
@@ -55,7 +55,7 @@ superstore_project/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -78,7 +78,7 @@ python lab6_dashboard.py
 
 ---
 
-## 📊 ML Models & Results (Expected)
+##  ML Models & Results (Expected)
 
 ### Regression (Lab 7)
 | Model | Target | Metric |
@@ -108,7 +108,7 @@ python lab6_dashboard.py
 
 ---
 
-## 🎯 Course Outcomes Addressed
+##  Course Outcomes Addressed
 | CO | Description | Labs |
 |---|---|---|
 | CO1 | Data cleaning, transformation, integration | 1, 2, 3 |
